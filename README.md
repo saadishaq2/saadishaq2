@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Ishaq</h1>
-<h3 align="center">A passionate Full Stack Software Developer from pakistan</h3>
+<h3 align="center">A passionate Web&AI Developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadishaq2&label=Profile%20views&color=0e75b6&style=flat" alt="saadishaq2" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/chsaadishaq" target="blank"><img src="https://img.shields.io/twitter/follow/chsaadishaq?logo=twitter&style=for-the-badge" alt="chsaadishaq" /></a> </p>
 
-- 🔭 I’m currently working on [Smart File Tracking System](https://github.com/saadishaq2/Smart-File-Tracker-IIUI)
+- 🔭 I’m currently working on [Auto-Eval-AI project]
 
 - 🌱 I’m currently learning **AI Automation& Azure**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
+- 👯 I’m looking to collaborate on **MERN Stack & AI projects**
 
 - 🤝 I’m looking for help with **Openshift**
 
