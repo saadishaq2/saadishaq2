@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **chsaadishaq@gmail.com**
 
-- 📄 Know about my experiences [[https://bit.ly/4g2AB4B](https://bit.ly/4g2AB4B)](https://docs.google.com/document/d/1c2H4V9Hn_VXt2zO-lFjps70GtUrj2Xa28pUBqq3fCyQ/edit?tab=t.0)
+- 📄 Know about my experiences https://docs.google.com/document/d/19GhgOLsTM5WgCUk1gn6IRB4Ok6ov3Hpd/edit
 - Portfolio: https://lively-beijinho-e79635.netlify.app/
 
 - ⚡ Fun fact **i playing football**
