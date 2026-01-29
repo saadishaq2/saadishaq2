@@ -7,21 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/chsaadishaq" target="blank"><img src="https://img.shields.io/twitter/follow/chsaadishaq?logo=twitter&style=for-the-badge" alt="chsaadishaq" /></a> </p>
 
-- 🔭 I’m currently working on [Auto-Eval-AI project]
+- 🔭 I’m currently working on **[Auto-Eval-AI project]**
 
 - 🌱 I’m currently learning **AI Automation& Azure**
 
-- 👯 I’m looking to collaborate on **MERN Stack & AI projects**
+- 👯 I’m looking to collaborate on **MERN Stack & AI/ML projects**
 
 - 🤝 I’m looking for help with **Openshift**
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61566272194692](https://www.facebook.com/profile.php?id=61566272194692)
 
-- 💬 Ask me about **React,Node,Machine Learning**
+- 💬 Ask me about **React,Node,Python,LangChain,LangFuse,Machine Learning**
 
 - 📫 How to reach me **chsaadishaq@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4g2AB4B](https://bit.ly/4g2AB4B)
+- 📄 Know about my experiences [[https://bit.ly/4g2AB4B](https://bit.ly/4g2AB4B)](https://docs.google.com/document/d/1c2H4V9Hn_VXt2zO-lFjps70GtUrj2Xa28pUBqq3fCyQ/edit?tab=t.0)
+- Portfolio: https://lively-beijinho-e79635.netlify.app/
 
 - ⚡ Fun fact **i playing football**
 
