@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Ishaq</h1>
-<h3 align="center">AI / Backend Engineer — building multi-agent LLM systems from Pakistan</h3>
+<h3 align="center">Full-Stack Software Engineer building AI/ML products — from RAG pipelines to multi-agent systems</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=saadishaq2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
