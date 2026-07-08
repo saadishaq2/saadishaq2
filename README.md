@@ -69,7 +69,7 @@ prompt-injection sanitization, delegation audit trails, and human-in-the-loop ap
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=saadishaq2&theme=tokyonight&hide_border=true&disable_animations=true" alt="streak stats" />
+<img src="https://streak-stats-saadishaq2.vercel.app/?user=saadishaq2&theme=tokyonight&hide_border=true&disable_animations=true" alt="streak stats" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats-saadishaq2.vercel.app/api?username=saadishaq2&show_icons=true&theme=tokyonight&disable_animations=true" alt="github stats" />
