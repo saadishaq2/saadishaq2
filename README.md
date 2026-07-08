@@ -1,43 +1,76 @@
 <h1 align="center">Hi 👋, I'm Saad Ishaq</h1>
-<h3 align="center">Web&AI Developer from pakistan</h3>
+<h3 align="center">AI / Backend Engineer — building multi-agent LLM systems from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadishaq2&label=Profile%20views&color=0e75b6&style=flat" alt="saadishaq2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadishaq2" alt="saadishaq2" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chsaadishaq" target="blank"><img src="https://img.shields.io/twitter/follow/chsaadishaq?logo=twitter&style=for-the-badge" alt="chsaadishaq" /></a> </p>
-
-- 🔭 I’m currently working on **[Auto-Eval-AI project]**
-
-- 🌱 I’m currently learning **AI Automation& Azure**
-
-- 👯 I’m looking to collaborate on **MERN Stack & AI/ML projects**
-
-- 🤝 I’m looking for help with **Openshift**
-
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61566272194692](https://www.facebook.com/profile.php?id=61566272194692)
-
-- 💬 Ask me about **React,Node,Python,LangChain,LangFuse,Machine Learning**
-
-- 📫 How to reach me **chsaadishaq@gmail.com**
-
-- 📄 Know about my experiences https://docs.google.com/document/d/19GhgOLsTM5WgCUk1gn6IRB4Ok6ov3Hpd/edit
-- Portfolio: https://lively-beijinho-e79635.netlify.app/
-
-- ⚡ Fun fact **i playing football**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chsaadishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chsaadishaq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saad ishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad ishaq" height="30" width="40" /></a>
-<a href="https://kaggle.com/saad ishaq000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saad ishaq000" height="30" width="40" /></a>
-<a href="https://fb.com/techverse by saad ishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techverse by saad ishaq" height="30" width="40" /></a>
-<a href="https://instagram.com/saad_dev_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad_dev_official" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=saadishaq2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://twitter.com/chsaadishaq"><img src="https://img.shields.io/twitter/follow/chsaadishaq?logo=twitter&style=flat" alt="twitter follow" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadishaq2&show_icons=true&locale=en&layout=compact" alt="saadishaq2" /></p>
+### 🔭 Currently
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadishaq2&show_icons=true&locale=en" alt="saadishaq2" /></p>
+- Building a **multi-agent orchestrator** (Claude Agent SDK + LiteLLM) — Thinker/Worker/Verifier pattern with dynamic team routing
+- Learning **AI automation & Azure**
+- Open to collaborating on **MERN stack & AI/ML** projects
+- Ask me about **React, Node, Python, LangChain, Langfuse, Claude Agent SDK**
+- Reach me at **chsaadishaq@gmail.com**
+- ⚡ Fun fact: I play football
+
+---
+
+### 🚀 Featured Project
+
+**[Multi-Agent Orchestrator](https://github.com/saadishaq2/multiagent-dynamic-team)**
+A TRINITY-pattern orchestrator (Thinker → Workers → Verifier → Synthesis) built on the Claude
+Agent SDK — specialist agents run in parallel via `asyncio.gather`, get verified against
+success criteria, then synthesized into one answer. Includes dynamic team routing,
+prompt-injection sanitization, delegation audit trails, and human-in-the-loop approval gates.
+
+---
+
+### 🛠️ Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/apachekafka" alt="kafka" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/redis" alt="redis" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/googlecloud" alt="gcp" width="36" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/terraform" alt="terraform" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+</p>
+
+---
+
+### 🔗 Connect
+
+<p align="left">
+<a href="https://twitter.com/chsaadishaq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saad-ishaq-software-engineer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/saadishaq000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://www.facebook.com/home.php" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/saad_dev_official" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
+
+**Portfolio**: [lively-beijinho-e79635.netlify.app](https://lively-beijinho-e79635.netlify.app/)
+**Resume**: [Google Doc](https://docs.google.com/document/d/19GhgOLsTM5WgCUk1gn6IRB4Ok6ov3Hpd/edit)
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saadishaq2&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadishaq2&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saadishaq2&theme=tokyonight&no-frame=true" alt="trophies" />
+</p>
