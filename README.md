@@ -60,7 +60,7 @@ prompt-injection sanitization, delegation audit trails, and human-in-the-loop ap
 <a href="https://instagram.com/saad_dev_official" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-**Portfolio**: [lively-beijinho-e79635.netlify.app](https://lively-beijinho-e79635.netlify.app/)
+**Portfolio**: [saad-ishaq-software-engineer.vercel.app](https://saad-ishaq-software-engineer.vercel.app)
 **Resume**: [Google Doc](https://docs.google.com/document/d/19GhgOLsTM5WgCUk1gn6IRB4Ok6ov3Hpd/edit)
 
 ---
