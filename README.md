@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saad Ishaq</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=140&section=header&text=Saad%20Ishaq&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+</p>
+
 <h3 align="center">Full-Stack Software Engineer building AI/ML products — from RAG pipelines to multi-agent systems</h3>
 
 <p align="center">
@@ -66,11 +69,12 @@ prompt-injection sanitization, delegation audit trails, and human-in-the-loop ap
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saadishaq2&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadishaq2&theme=tokyonight" alt="profile details" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadishaq2&layout=compact&theme=tokyonight" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadishaq2&theme=tokyonight" alt="github stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadishaq2&theme=tokyonight" alt="most commit language" />
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saadishaq2&theme=tokyonight&no-frame=true" alt="trophies" />
+<img src="https://streak-stats.demolab.com/?user=saadishaq2&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
