@@ -42,13 +42,13 @@ prompt-injection sanitization, delegation audit trails, and human-in-the-loop ap
 <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
-<img src="https://cdn.simpleicons.org/apachekafka" alt="kafka" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="36" height="36"/>
 <img src="https://cdn.simpleicons.org/redis" alt="redis" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
 <img src="https://cdn.simpleicons.org/googlecloud" alt="gcp" width="36" height="36"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36"/>
 <img src="https://cdn.simpleicons.org/terraform" alt="terraform" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36"/>
 </p>
 
 ---
@@ -69,12 +69,9 @@ prompt-injection sanitization, delegation audit trails, and human-in-the-loop ap
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadishaq2&theme=tokyonight" alt="profile details" />
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadishaq2&theme=tokyonight" alt="github stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadishaq2&theme=tokyonight" alt="most commit language" />
-</p>
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=saadishaq2&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats-saadishaq2.vercel.app/api?username=saadishaq2&show_icons=true&theme=tokyonight" alt="github stats" />
+<img src="https://github-readme-stats-saadishaq2.vercel.app/api/top-langs/?username=saadishaq2&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
